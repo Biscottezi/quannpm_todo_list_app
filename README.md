@@ -1,9 +1,9 @@
 # Todo App
 
 ## Feature
-  - Create task complete or incomplete
-  - Bottom navigation bar to switch between Complete Task, All Task, Incomplete Task screens 
-  - Saving and updating Todo tasks in the local database
+  - Creating Completed/Incompleted Todos
+  - Bottom navigation bar to switch between All Todos, Completed Todos, Incomplete Todos screens 
+  - Saving and updating Todo in the sqlite database
 
 ## How to run this project?
     - Run this project on Visual Studio Code:
